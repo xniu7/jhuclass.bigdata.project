@@ -1,4 +1,4 @@
-####bigdata_project
+##Bigdata_project
 
 Team: Ruilong He, Yao Huang, Xiang Niu
 
