@@ -3,6 +3,7 @@
 Team: Ruilong He, Yao Huang, Xiang Niu
 
 Our genome website is builded by django.
+
 = 
 Directories:
 * Admin, localhost directories include lots of web schema like css files.
@@ -16,6 +17,7 @@ Directories:
 * ucscSQL directory is the SQL connection to uscs, which is already abandoned.
 
 * utility directory contains all of libraries and tools we need.
+
 Files:
 * index.html is the main page.
 
