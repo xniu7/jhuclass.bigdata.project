@@ -5,7 +5,7 @@ Team: Ruilong He, Yao Huang, Xiang Niu
 
 Our genome website is builded by django.
  
-Admin, localhost directory includes lots of web schema like css files.
+Admin, localhost directories include lots of web schema like css files.
 
 Downfile directory, which is the most importance part of django framework, includes the interfaces (view.py) to our backend (computation part) and frontend (display part)
 
